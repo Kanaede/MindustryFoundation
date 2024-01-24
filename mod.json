@@ -1,0 +1,9 @@
+{
+  "name": "mindustry-fundation",
+  "displayName": "Mindustry Fundation",
+  "version": "0.0.1",
+  "author":" Mindustry Expandsion Team",
+  "description": "This mod adds a new building to Mindustry, the Core of Mindustry Expandsion. \n[red]This Mod Still In Development",
+  "minGameVersion": 145,
+  "hidden": false 
+}
