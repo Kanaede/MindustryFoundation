@@ -2,7 +2,7 @@
   "type":"GenericCrafter",
   "category":"crafting",
   "hasPower":true,
-  "hasLiquid":true,
+  "hasLiquids":true,
   "size":4,
   "craftTime":300,
   "outputItem": {"item":"fuse-stone","amount":1},

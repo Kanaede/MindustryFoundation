@@ -3,7 +3,7 @@
   "category": "crafting",
   "hasItems": true,
   "hasPower": true,
-  "hasLiquid": true,
+  "hasLiquids": true,
   "size": 4,
   "craftTime": 100,
   "consumes": {
