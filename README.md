@@ -1,7 +1,5 @@
-# MindustryFundation
-
 <p align="center"><image src="icon.png" alt="logo" width="200"></p>
-<h2 align="center">MINDUSTRY FUNDATION</h2>
+<h2 align="center">MINDUSTRY FOUNDATION</h2>
 <h4 align="center">Core of MEP(Mindsutry Expansion Project)</h4>
 
 ## What is this?
